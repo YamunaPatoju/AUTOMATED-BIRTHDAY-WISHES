@@ -3,6 +3,10 @@ AUTOMATED BIRTHDAY WISHES
 
 This is a Python script that allows you to send emails using the SMTP protocol through Gmail. It securely sends an email with a subject and body to a specified recipient.
 
+
+![B1](https://github.com/user-attachments/assets/83310c96-452b-4018-a03b-1a1d3cce2a23)
+
+
 FEATURES:
 -Send Email via Gmail: Uses Python's smtplib to send an email through Gmail's SMTP server.
 -Secure Password Handling: The script uses environment variables to handle your email and password, ensuring that sensitive data is not exposed in the code.
